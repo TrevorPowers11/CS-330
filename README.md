@@ -1,3 +1,6 @@
+<img width="996" height="826" alt="image" src="https://github.com/user-attachments/assets/9eebc393-f948-4f5e-87b3-3e686612758f" />
+
+
 CS 330 Module Eight Journal Reflection
 How do I approach designing software?
 
