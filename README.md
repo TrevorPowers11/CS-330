@@ -5,7 +5,7 @@
 **How do I approach designing software?**
 
 -When I design software, I usually start by looking at the main requirements and figuring out what the final project needs to include. For my 3D scene, I had to think about what objects needed to be created, how they would be arranged, and what visual details would make the scene look complete. This project helped me improve my design skills because I had to plan a scene using shapes, textures, lighting, camera movement, and object placement instead of only thinking about code.
-The design process I followed was to break the project into smaller parts. I started with the basic objects in the scene, then added transformations, textures, lighting, and camera controls. This made the project easier to manage because I was not trying to build everything at once. In future work, I can use this same approach by planning the structure first, building in stages, and improving the project through testing and revision.
+The design process I followed was to break the project into smaller parts. I started with the basic objects in the scene, then added transformations, textures, lighting, and camera controls. This made the project easier to manage because I was not trying to build everything at once. In future work, I can use this same approach by planning the structure first, building in stages, and improving the project through testing and revision.-
 
 **How do I approach developing programs?**
 
