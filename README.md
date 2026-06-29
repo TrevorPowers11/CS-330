@@ -1,7 +1,8 @@
 <img width="996" height="826" alt="image" src="https://github.com/user-attachments/assets/9eebc393-f948-4f5e-87b3-3e686612758f" />
 
 
-_**CS 330 Module Eight Journal Reflection**
+**CS 330 Module Eight Journal Reflection**
+
 **How do I approach designing software?**
 
 1. When I design software, I usually start by looking at the main requirements and figuring out what the final project needs to include. For my 3D scene, I had to think about what objects needed to be created, how they would be arranged, and what visual details would make the scene look complete. This project helped me improve my design skills because I had to plan a scene using shapes, textures, lighting, camera movement, and object placement instead of only thinking about code.
@@ -16,4 +17,3 @@ One development strategy I used was organizing the code so that different parts 
 
 3. Computer science can help me reach my goals by giving me skills that are useful in many technical careers. This course helped me understand how graphics programming works and how math, programming, and visual design can connect. Computational graphics and visualization gave me more practice with problem-solving, spatial thinking, and working with code that creates a visual result.
 These skills can help in my future education because they gave me more experience with programming concepts, debugging, and project development. They can also help professionally because many computer science jobs require the ability to break down complex problems, work with technical tools, and create organized solutions. Even if I do not work directly in graphics, the skills I practiced in this course can apply to software development, simulations, user interfaces, game development, and other technology fields.
-_
